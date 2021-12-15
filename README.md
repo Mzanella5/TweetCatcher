@@ -2,6 +2,10 @@
 
 Por Maicon Zanella e Lucas W Molin
 
+## Objetivo
+
+Solução simples em python para consultar a API do twitter em busca de citações de nomes de cantores. O projeto tem como proposta utilizar a menor quantidade de memória ram possível iterando sobre os dados no disco tentando carregar o mínimo possível para a memória ram.
+
 ## Hipótese
 
 Qual artista músical é mais comentado no Twitter?
